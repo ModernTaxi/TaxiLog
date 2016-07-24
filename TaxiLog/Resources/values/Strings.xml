@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Hello">Hello World, Click Me!</string>
+    <string name="SwissHotel">Swiss Hotel, Sonoma, CA</string>
+    <string name="LodgeInn">Lodge Inn, Sonoma, CA</string>
+    <string name="GirlAndFig">Girl and the Fig, Sonoma, CA</string>
+    <string name="EasyStop">Easy Stop, Sonoma, CA</string>
+    <string name="lbl1">Mary\'s Pizza Shack on HW12, Sonoma, CA</string>
+    <string name="lbl2">Mary\'s Pizza Shack on Spain st, Sonoma, CA</string>
+    <string name="lbl3">Sonoma Valley Hospital, Sonoma, CA</string>
+    <string name="lbl4">Brookdale Sonoma, Sonoma, CA</string>
+    <string name="lbl5">Sonoma Hills Retirement Center, Sonoma, CA</string>
+    <string name="lbl6">Sonoma Point Apartments, Sonoma, CA</string>
     <string name="ApplicationName">TaxiLog</string>
 </resources>
